@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="description">description</string>
+    <string name="title">title</string>
+    <string name="penulis">PENULIS</string>
+    <string name="update_book">update book</string>
+    <string name="yuk_baca_buku">Yuk, baca buku!</string>
+    <string name="genre">genre</string>
+</resources>
